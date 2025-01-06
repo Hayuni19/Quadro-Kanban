@@ -1,7 +1,5 @@
 # Quadro-Kanban
 
-# Kanban Board
-
 Este é um projeto de um quadro Kanban, uma ferramenta visual usada para gerenciar tarefas e fluxos de trabalho. Ele permite organizar atividades em colunas representando os estágios de progresso, como "Pendente", "Em front-end", "Em back-end", "Em teste" e "Concluído".  
 
 ---
